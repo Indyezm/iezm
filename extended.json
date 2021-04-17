@@ -5,25 +5,12 @@
         "location": "xxxxx",
         "social": {
             "twitter_handle": "@IndysPool",
-            "telegram_handle": "xxxx",
-            "facebook_handle": "xxxx",
-            "youtube_handle": "xxxx",
-            "twitch_handle": "xxxx",
-            "discord_handle": "xxxx",
-            "github_handle": "xxxx"
         },
         "company": {
             "name": "1st Cardano Stake Pool of Indiana",
-            "addr": "7532 Indian Lake Rd",
-            "city": "Indianapolis",
-            "country": "USA",
-            "company_id": "",
-            "vat_id": ""
         },
         "about": {
             "me": "Single pool operater",
-            "server": "xxxx",
-            "company": "xxx"
         },
     "my-pool-ids": {
         "0": "84d98dadb38413a59d37878b58f0dbdf25f5d527291943e03ed94b80",
