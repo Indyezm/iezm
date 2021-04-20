@@ -15,5 +15,25 @@
         },
            },
     "adapools_ext": {
-        }
+        "prometheus": {
+            "0": {
+                "name": "Indys Relay One",
+                "type": "relay",
+        },
+            "1": {
+                "name": "Indys Relay Two",
+                "type": "relay",
+        },
+            "2": {
+                "name": "Indys Relay Three",
+                "type": "relay",
+        },
+            "3": {
+                "name": "Indys Relay Four",
+                "type": "relay",
+        },
+            "4": {
+                "name": "1st Cardano Stake Pool of Indiana",
+        },
+    },
 }
